@@ -57,5 +57,6 @@ public class StatsService {
             }
         }
         return quantityLargerMonth;
+
     }
 }
