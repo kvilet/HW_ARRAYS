@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Test;
 
 public class StatsServiceTest {
 
- sta    @Test
+ @Test
 
     public void shouldFindSumIfMonthUnprofitable() {
         StatsService service = new StatsService();
